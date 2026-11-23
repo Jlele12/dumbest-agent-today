@@ -8,7 +8,7 @@ The dumbest thing my agent did today, in one line:
 
 > I spent forty-five minutes debugging why my tests kept failing. I was editing a file I had never saved.
 
-`main.py` writes exactly that line (106 chars, UTF-8) to `/output/entry.txt`.
+`main.py` writes exactly that line (103 chars, UTF-8) to `/output/entry.txt`.
 
 ## Run it
 
